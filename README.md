@@ -88,4 +88,13 @@ Here are some ideas to get you started:
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elineely&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-    
+
+<!--
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧾 Projects </h2> <div style="text-align: left;">
+**[Cabi](https://cabi.oopy.io/) - Web service for renting and returning over 500 lockers**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=innovationacademy-kr&repo=42cabi&theme=dark)](https://github.com/innovationacademy-kr/42cabi)
+    </div>
+ </div>
+ -->
